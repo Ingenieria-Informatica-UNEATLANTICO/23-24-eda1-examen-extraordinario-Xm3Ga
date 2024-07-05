@@ -10,6 +10,7 @@ class Hamburguesa {
         this.ingredientes = new ArrayList<>();
     }
 
+    //Create
     public void agregarIngrediente(Ingrediente ingrediente) {
         ingredientes.add(ingrediente);
     }
@@ -18,6 +19,12 @@ class Hamburguesa {
         ingredientes.add(posicion, ingrediente);
     }
 
+    //Update
+    public void actualizarIngrediente(int index, Ingrediente nuevoIngrediente) {
+        ingredientes.set(index, nuevoIngrediente);
+    }
+
+    //Delete
     public void quitarIngrediente(int posicion) {
         ingredientes.remove(posicion);
     }
@@ -27,6 +34,7 @@ class Hamburguesa {
         ingredientes.add(hastaPos, ingrediente);
     }
 
+    //Read
     public void mostrar() {
         for (Ingrediente ingrediente : ingredientes) {
             ingrediente.mostrar();
