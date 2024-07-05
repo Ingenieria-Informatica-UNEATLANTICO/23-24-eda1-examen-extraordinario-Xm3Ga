@@ -19,4 +19,8 @@ Además, reorganizarIngredientes
 
 TODO
 
-UML
+Todo hecho ^^
+
+# PlantUML
+
+Se a añadido un PlantUML del proyecto ya finalizado
