@@ -24,3 +24,5 @@ Todo hecho ^^
 # PlantUML
 
 Se a añadido un PlantUML del proyecto ya finalizado
+
+Aclaración PlantUML: He añdadido un .png a la carpeta de modelosUML. Quería descargarlo en formato .svg pero por algún motivo no descarga, no tengo ni idea, así que al menos subo el .png
