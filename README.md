@@ -8,6 +8,10 @@ Modificamos la clase hamburguesa para que utilize un List<Ingrediente> ingredien
 Gracias a la estructura del programa, no necesitamos hacer cambios adicionales en las demás clases del programa para adoptar la refactorización de Hamburguesa.
 Finalmente, cambiamos Cocinero para implementar un nuevo proceso de creación de la hamburguesa.
 
+### Cambio importante
+
+En vez de hacerlo que List y ArrayList, modificamos la clase Hamburguesa para que utilize la nueva clase Nodo. Los métodos implementados no cambian, simplemente hay que modificar su estructura para que usen los nodos como estructura de datos.
+
 Métodos implementados:
 
 C (agregarIngrediente)
@@ -15,9 +19,9 @@ R (mostrar y describir)
 U (actualizarIngrediente)
 D (quitarIngrediente)
 
-Además, reorganizarIngredientes
+Además, reorganizarIngredientes, obtenerIngredientes
 
-TODO
+### TODO
 
 Todo hecho ^^
 
