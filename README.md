@@ -49,3 +49,9 @@ Los puntos 2 (código fuente), 3 (diagramas UML) y 4 (imágenes) son imprescindi
 Planificación| Planifique su enfoque utilizando diagramas, esquemas, estados y/o pseudocódigo. Lo puede aportar en su repo, como diagrama o como imagen (foto), en la carpeta adecuada y enlazado desde el README.md
 Documentación|En dicho README.md puede explicar cómo cada parte contribuye a la solución general. Y como hemos debatido ampliamente, evite los comentarios a su código: ¡que el código se autoexplique!.
 Delegación de responsabilidades|Dedíquele un momento a reflexionar sobre cómo reparte las responsabilidades entre los diferentes elementos de su código (métodos, clases, objetos) y cómo esto afecta la claridad y eficiencia de su solución.
+
+
+
+### Propuesta de solución
+
+Dejaremos atrás los arrays (al menos parcialmente) y procederemos a refactorizar el programa usando Listas de Java. Este comentario se irá actualizando a medida que el progreso siga
